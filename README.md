@@ -15,7 +15,7 @@ This repository accompanies a detailed report (PDF) that builds a bridge from cl
 - **Volatility** of those assets  
 
 We compare performance, highlight methodological synergies and divergences, and include full mathematical background, code snippets, and result discussions.
-> **Note:** Code quality are ongoing :— only R code snippets attached in the pdf are executable. Executable python scripts will be provided asap! 
+> **Note:** Code quality are being improved:— all codes attached in the pdf are executable. Separate Notebook will be provided asap! 
 
 ---
 
@@ -30,7 +30,7 @@ We compare performance, highlight methodological synergies and divergences, and 
 - **notebooks/** (coming soon)  
   - Executable Jupyter notebooks for all code used in the report  
   - Python scripts for data loading, model training & evaluation
-  - R codes in the pdf are executable  
+  - All codes in the pdf are executable  
 
 ---
 
