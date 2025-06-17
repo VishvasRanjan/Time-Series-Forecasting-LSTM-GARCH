@@ -15,7 +15,7 @@ This repository accompanies a detailed report (PDF) that builds a bridge from cl
 - **Volatility** of those assets  
 
 We compare performance, highlight methodological synergies and divergences, and include full mathematical background, code snippets, and result discussions.
-> **Note:** Code quality are being improved:— all codes attached in the pdf are executable. Separate Notebook will be provided asap! 
+>**Note:** Code quality is under improvement:— all codes attached in the pdf are executable. Separate Notebook will be provided asap! 
 
 ---
 
